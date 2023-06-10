@@ -1,7 +1,7 @@
 # ETH_PROOF
 
 
-In challenge four there are two qus asked that is : 
+In challenge four there are two qusestions asked that is : 
 Does the transaction throw an error? Why?
 
 The answer is Yes the transcation throw an error. 
